@@ -1,5 +1,3 @@
-#PW Currency Converter
-
 Front-end project developed with HTML, CSS, and JavaScript to convert values
 from Brazilian Real (BRL) to international currencies.
 
