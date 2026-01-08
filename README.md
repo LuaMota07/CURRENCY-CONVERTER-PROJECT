@@ -20,6 +20,3 @@ from Brazilian Real (BRL) to international currencies.
 ## 📌 Notes
 Exchange rates are approximate and used for educational purposes only.
 For real transactions, please refer to official financial sources or APIs.
-
-## 📷 Preview
-![Project Preview](./preview.png)
