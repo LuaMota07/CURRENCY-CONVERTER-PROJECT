@@ -1,22 +1,38 @@
-Front-end project developed with HTML, CSS, and JavaScript to convert values
-from Brazilian Real (BRL) to international currencies.
+# CURRENCY-CONVERTER-PROJECT
 
-## 🚀 Features
-- Conversion from BRL to international currencies
-- Clean and professional interface
-- Input value validation
-- Exchange rate–based calculation
+# Description
+-  A simple web application to convert currency values between different currencies.
 
-## 🛠️ Technologies
-- HTML5
-- CSS3
-- JavaScript
+# Purpose
+-  Practice Javascript, DOM manipulation, and basic API integration.
+-  Build a useful tool to convert currency values in real time.
 
-## ▶️ How to Use
-1. Enter a value in Brazilian Real (BRL)
-2. Select the desired currency
-3. Click the "Convert" button
+# Features
+-  Enter an amount
+-  Select source currency
+-  Select target currency
+-  Get the converted value
+-  Clean and intuitive interface
 
-## 📌 Notes
-Exchange rates are approximate and used for educational purposes only.
-For real transactions, please refer to official financial sources or APIs.
+# Technologies used
+-  HTML
+-  CSS
+-  Javascript
+
+# Project Structure
+-  index.html - main page and layout
+-  style.css - syling and design
+-  script.js - conversion logic and interaction
+
+# How to run
+-  Clone the repository
+-  Open the index.html file in your browser
+-  Enter the amount and select currencies to convert
+
+# Possible improvements
+-  Add more currencies
+-  Display conversion history
+-  Add responsive design for mobile use
+
+# Contributions
+-  Feedback and suggestions are greatly appreciated.      
